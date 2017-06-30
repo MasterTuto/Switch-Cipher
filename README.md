@@ -10,8 +10,11 @@ O Switch Cipher trabalha com a chave da seguinte maneira: Tendo um alfabeto, a p
 Para usar, há dois argumentos obrigatórios e dois que são os que definem se é para encriptar os decriptar. Onde eu tenho os seguintes parâmetros:
 
 **-e** ou **--encrypt**: Define o programa para encriptar uma palavra.
+
 **-d** ou **--decrypt**: Define o programa para decriptar uma palavra.
+
 **-w** ou **--word**: Define a palavra ou frase para ser encriptada ou decriptada.
+
 **-k** ou **--key**: Define a chave que será usada.
 
 ### Exemplos
